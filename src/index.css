@@ -1,0 +1,115 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css");
+
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+  background-color: black;
+}
+
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+ }
+
+ .sectionImg {
+  width: 50%;
+  min-width: 150px;
+ }
+
+ html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+.Timer {
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.qrReader {
+  width: 100%;
+}
+
+.LoaderButton .spinner {
+  margin-right: 7px;
+  display: inline-block;
+}
+
+@media all and (min-width: 480px) {
+  .Auth {
+    padding: 60px 0;
+  }
+
+  .Auth form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.hero-btn {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.center {
+  text-align: center;
+}
+
+.NotFound {
+  text-align: center;
+}
+
+/* Below Are Classes and IDs defined in the src code
+
+#root {
+}
+
+#body {
+}
+
+#footer {
+}
+
+.yellowBg {
+ }
+
+.nav-link {
+}
+
+.nav-link:hover {
+}
+
+.modal-txt-bg {
+}
+
+.lightBg {
+}
+
+.colBorder {
+ }
+ 
+.colBorder-top {
+}
+
+.colBorder-bottom {
+ }
+
+.hidden {
+}
+
+.nunito {
+}
+
+.nunitoSans {
+}
+
+.Rokkitt {
+}
+
+ */
