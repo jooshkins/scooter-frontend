@@ -1,7 +1,7 @@
 {
   "name": "scooter-frontend",
   "version": "1.0.0",
-  "description": "Frontend for a scooter share project - Creatures",
+  "description": "Frontend template for a scooter share project - Creatures",
   "private": true,
   "author": "Joshua Sheridan",
   "license": "MIT",

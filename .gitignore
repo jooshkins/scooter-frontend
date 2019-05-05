@@ -22,15 +22,7 @@ yarn-error.log*
 
 # extra user added
 
-/src/.sass-cache
-/test
 /amplify
 .amplifyrc
 /.sass-cache
-/src/Assets/baseAssets
-/src/Assets/customAssets
-/src/index-base.css
-/src/index.css.map
-/src/index.scss
-/public/icons
-/public/favicon.ico
+/src/.sass-cache
